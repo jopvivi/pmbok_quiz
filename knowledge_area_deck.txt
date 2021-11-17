@@ -1,0 +1,48 @@
+integration<>Which knowledge area includes the creation of the project charter?
+integration<>Which knowledge area includes the creation of the project management plan?
+integration<>Which knowledge area includes the direction and management of the project work?
+integration<>Which knowledge area includes the management of project knowledge?
+integration<>Which knowledge area includes the monitoring and controlling of project work?
+integration<>Which knowledge area includes the performance of integrated change control?
+integration<>Which knowledge area includes the closing of the project or phase?
+scope<>Which knowledge area includes plalnning scope management?
+scope<>Which knowledge area includes collecting requirements?
+scope<>Which knowledge area includes defining project scope?
+scope<>Which knowledge area includes the creation of WBS?
+scope<>Which knowledge area includes the validation of scope?
+scope<>Which knowledge area includes controlling scope?
+schedule<>Which knowledge area includes planning schedule management?
+schedule<>Which knowledge area includes defining activities?
+schedule<>Which knowledge area includes sequencing events?
+schedule<>Which knowledge area includes estimating activity durations?
+schedule<>Which knowledge area includes developing the schedule?
+schedule<>Which knowledge area includes controlling the schedule?
+cost<>Which knowledge area includes planning cost management?
+cost<>Which knowledge area includes estimating costs?
+cost<>Which knowledge area includes determining the budget?
+cost<>Which knowledge area includes control costs?
+quality<>Which knowledge area includes planning quality management?
+quality<>Which knowledge area includes managing quality?
+quality<>Which knowledge area includes controlling quality?
+resource<>Which knowledge area includes planning resource management?
+resource<>Which knowledge area includes estimating activity resources?
+resource<>Which knowledge area includes acquiring resources?
+resource<>Which knowledge area includes developing the team?
+resource<>Which knowledge area includes managing the team?
+resource<>Which knowledge area includes controlling resources?
+communications<>Which knowledge area includes planning communications management?
+communications<>Which knowledge area includes managing communications?
+communications<>Which knowledge area includes monitoring communications?
+risk<>Which knowledge area includes planning risk management?
+risk<>Which knowledge area includes identifying risks?
+risk<>Which knowledge area includes performing qualitative risk analysis?
+risk<>Which knowledge area includes planning risk responses?
+risk<>Which knowledge area includes implementing risk responses?
+risk<>Which knowledge area includes monitoring risks?
+procurement<>Which knowledge area includes planning procurement management?
+procurement<>Which knowledge area includes condicuting procurements?
+procurement<>Which knowledge area includes controlling procurements?
+stakeholder<>Which knowledge area includes identifying stakeholders?
+stakeholder<>Which knowledge area includes planning stakeholder engagement?
+stakeholder<>Which knowledge area includes managing stakeholder engagement?
+stakeholder<>Which knowledge area includes monitoring stakeholder engagement?

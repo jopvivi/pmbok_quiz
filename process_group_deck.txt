@@ -1,0 +1,5 @@
+initiating<>The first project management process group is:
+planning<>The second project management process group is:
+executing<>The third project management process group is:
+monitoring and controlling<>The fourth project management process group is:
+closing<>The fifth project management process group is:
